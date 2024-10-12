@@ -2,8 +2,6 @@ package com.botswana.purchaseservice.dto;
 
 import com.botswana.purchaseservice.enums.CoverType;
 
-import javax.persistence.EnumType;
-import javax.persistence.Enumerated;
 import javax.validation.Valid;
 import javax.validation.constraints.*;
 import java.util.List;
